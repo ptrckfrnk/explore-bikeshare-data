@@ -5,6 +5,6 @@ Here, we explore bikeshare trip data collected from three US cities; Chicago, Ne
 
 
 ## Usage
-1. Open the python file in the command line
+1. Run the _bikeshare.py_ file in the command line
 2. Follow the steps of the user interface to filter the datasets by e.g. city, months and days
 3. The script then calculates some statistics about the data and returns them in the command line
